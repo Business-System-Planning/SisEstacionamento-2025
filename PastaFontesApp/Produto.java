@@ -1,4 +1,4 @@
-
+//Classe de produtos oferecidos no estacionamento, como lavagem de carro, abastecimento e troca de óleo
 public class Produto {
 
 	private double peso;
@@ -28,7 +28,5 @@ public class Produto {
 	public void setAltura(double altura) {
 		this.altura = altura;
 	}
-	
-	
 	
 }
